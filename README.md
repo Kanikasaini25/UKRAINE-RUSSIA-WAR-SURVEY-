@@ -49,4 +49,18 @@ It seems like the dataset contains two files:
 * UAV - Unmanned Aerial Vehicle,
 * RPA - Remotely Piloted Vehicle.
 ## Dataset History
-2022-03-02 - dataset is created (after 7 days of the War).
+2022-03-02 - dataset is created (after 7 days of the War)
+## Inferences and Conclusion
+* We've drawn many inferences from the survey. Here's a summary of a few of them:
+
+* Based on the survey , I can infer that the survey is somewhat representative of the over all dataset. However, Russia has lost more equipments like aircraft,tank,fuel tank , drone ,naval ship etc.
+
+* Only after some days of the war, Russia acknowledged that they have human losses. According to the dataset the personnel loss of Russia above 70,000 .I analysis , starting 10 days of war Russia lost the approx 10,000 personnels but the death radio are rapidly increase.
+
+* Russia has lost many aircraft, helicopter.In this notebook we can understand the aircraft and helicopter losses of Russia every month.Russia lost above 250 aircraft and above 200 helicopter .
+
+* Russia has lost many drone , naval ship in war. Russia has lost above 1400 drone . Starting days losses are minimum but the losses are increase rapidly in april month.
+
+* Russia has lost above 2500 tank .starting days tank losses are minimum but the losses are increase rapidly in april month. In the case of fuel tank loss minimum comparison to tank loss.
+
+* Starting 5 days of war, Russia has lost the approx 5,000 personnels but the death radio are rapidly increase.last 5 days Russia has lost more the 70,000 personnels.The death radio is rapidly increase .
